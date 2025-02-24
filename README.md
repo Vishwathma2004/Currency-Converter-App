@@ -1,8 +1,3 @@
-Here’s a **README.md** tailored for your **Currency Converter App** in Java using Gradle:
-
----
-
-```markdown
 # Currency Converter App
 
 A simple and efficient **Currency Converter** Android application developed in **Java** using **Gradle**. This app allows users to convert between different currencies with real-time exchange rates.
@@ -66,4 +61,3 @@ This project is licensed under the [MIT License](LICENSE).
 - Inspired by the need for a quick and simple currency conversion tool.
 
 ---
-```
